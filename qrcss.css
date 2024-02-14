@@ -1,0 +1,42 @@
+* {
+  padding:0;
+  margin:0;
+  box-sizing: border-box;
+}
+
+body {
+  text-align: center;
+  margin-top:150px;
+  background-color:rgb(219, 217, 217);
+}
+
+.card {
+  max-width:275px;
+  margin:auto;
+  background-color:rgb(255, 255, 255);
+  display:flow-root;
+  border-radius:18px;
+}
+
+.card img {
+  width:250px;
+  margin-top:15px;
+  margin-bottom:18px;
+}
+
+.maintext {
+  font-weight:bold;
+  font-size:17px;
+  word-spacing: 3px;
+  text-align:center;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  word-spacing:-1px;
+  
+}
+
+.smalltext {
+  font-size:13px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  color:rgba(0, 0, 0, 0.4);
+  
+}
